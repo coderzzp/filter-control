@@ -1,4 +1,4 @@
-### filter-control
+filter-control
 ========================
 
 [![Version](https://img.shields.io/badge/filter--control-1.0.3-brightgreen.svg)](https://www.npmjs.org/package/classnames)
