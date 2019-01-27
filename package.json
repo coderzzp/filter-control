@@ -1,10 +1,10 @@
 {
   "name": "filter-control",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "filter control code in ASCII",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest --coverage" 
+    "test": "jest --coverage"
   },
   "author": "coderzzp",
   "license": "MIT",
